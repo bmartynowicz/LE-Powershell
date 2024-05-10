@@ -1,5 +1,5 @@
-﻿$global:FQDN = "demolab.loginvsi.com"
-$global:TOKEN = "YLAZ0QdQhikkqCAKif9cuxI0cFEKPTq2YfNPL2r6Bfg"
+﻿$global:FQDN = "yourVA.yourDomain.com"
+$global:TOKEN = "insertYourOwnAPIKeyHere"
  
 $global:HEADER = @{
     "Accept" = "application/json"
